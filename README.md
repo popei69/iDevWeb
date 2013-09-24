@@ -1,8 +1,11 @@
 iDevWeb v1.1
-By Benoit PASQUIER
 =======
 
+By Benoit PASQUIER
+hire.benoitpasquier.fr
+
 Resume:
+=======
 
 iDevWeb is a web app available like an intranet.
 It's an easy tool to list your projects in your apache server.
@@ -12,6 +15,7 @@ An authenticate form limits the access to it.
 Developped for MAMP, you can install it for WAMP or other web servers.
 
 Install:
+=======
 
 Edit the 'config.php' file:
 
@@ -29,10 +33,13 @@ define('PASSWORD', 'password');
 
 
 Use it:
+=======
 
 On the "Configuration" page, you can pick which projects you want to show/hide
 
-Help:
+Help and More:
+=======
 
+Read my french blog on it : http://benoitpasquier.fr
 contact me at b.pasquier69@gmail.com
 
