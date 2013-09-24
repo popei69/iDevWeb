@@ -35,6 +35,7 @@ define('PASSWORD', 'password');
 Use it:
 =======
 
+Open a web browser and go to your localhost domain.
 On the "Configuration" page, you can pick which projects you want to show/hide
 
 Help and More:
