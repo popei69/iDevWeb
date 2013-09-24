@@ -1,0 +1,30 @@
+IDevWeb - Gestion de projets web
+
+Auteur: Benoit PASQUIER
+Version: 1.0
+
+Application web listant les dossiers contenu dans le chemin PATH_FOLDER.
+
+Fonctionnalités:
+
+	liste des dossiers
+	taille des dossiers (approximation octets)
+	date dernière modification
+	lien accès aux dossiers
+	ajout d'un dossier pour un projet
+	suppression d'un dossier (seulement si le dossier est vide)
+	module d'authentification
+	
+Déploiement:
+	
+	Placer le contenu du dossier à la racine du dossier voulu. 
+	Adapter la valeur des variables dans le fichier de configuration "config.php"
+	Ajouter, modifier ou supprimer les dossiers que vous ne voulez pas lister dans le fichier "index.php"
+	
+	Enjoy
+
+
+
+Pour toutes remarques et support:
+
+b.pasquier69@gmail.com
