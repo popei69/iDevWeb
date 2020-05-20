@@ -19,6 +19,7 @@ Install:
 
 Edit the 'config.php' file:
 
+```php
 // Define global vars
 define('PATH_URL', 'http://localhost:8888/iDevWeb/');
 define('MAMP_URL','http://localhost:8888/MAMP/?language=French');
@@ -30,6 +31,7 @@ define('AUTHENTICATION', true);
 // Define login password
 define('LOGIN', 'user');
 define('PASSWORD', 'password');
+```
 
 
 Use it:
@@ -41,6 +43,4 @@ On the "Configuration" page, you can pick which projects you want to show/hide
 Help and More:
 =======
 
-Read my french blog on it : http://benoitpasquier.fr
-contact me at b.pasquier69@gmail.com
-
+Read my french blog on it : https://benoitpasquier.com
