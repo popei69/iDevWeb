@@ -2,7 +2,6 @@ iDevWeb v1.1
 =======
 
 By Benoit PASQUIER
-hire.benoitpasquier.fr
 
 Resume:
 =======
